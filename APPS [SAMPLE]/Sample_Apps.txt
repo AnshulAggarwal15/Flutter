@@ -1,0 +1,1 @@
+In this folder we have files which are actually apps created during the learning process.
